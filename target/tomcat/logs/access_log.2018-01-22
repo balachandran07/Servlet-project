@@ -1,0 +1,2 @@
+127.0.0.1 - - [22/Jan/2018:17:23:31 +0530] "GET / HTTP/1.1" 200 277 http-bio-9092-exec-1 587
+127.0.0.1 - - [22/Jan/2018:17:23:36 +0530] "GET /ServletLifeCycle?username=we&password=we HTTP/1.1" 200 33 http-bio-9092-exec-2 229
